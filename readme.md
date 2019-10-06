@@ -1,7 +1,7 @@
 # Contact-Web-Application
-## Contact Web Application with Asp.net MVC 
+## Contact Web Application with PHP Laravel Framework
 
-This project is phone contact application which made with Asp.NET MVC. CRUD operations were realized with C# in it. Additionally Popup operation and language options were added. Search operation was realized with Jquery and AJAX. 
+This project is phone contact application which made with PHP Laravel Framework. CRUD operations were realized with PHP in it. Additionally Popup operation and language options were added. Search operation was realized with Jquery and AJAX. 
 
 
 ### Used technologys, programming languages, platforms, frameworks, libraries, methods, databases
