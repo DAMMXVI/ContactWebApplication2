@@ -38,11 +38,11 @@ This project is phone contact application which made with PHP Laravel Framework.
 
 
 
-### 6.Search operation with AJAX
+### 5.Search operation with AJAX
 ![6](https://user-images.githubusercontent.com/48470323/66275972-ce932900-e896-11e9-840a-81010fbdf90d.png)
 
 
-### 7.Language option for example "TR"
+### 6.Language option for example "TR"
 ![7](https://user-images.githubusercontent.com/48470323/66275973-ce932900-e896-11e9-90d6-5e4ed0e167f7.png)
 
 
