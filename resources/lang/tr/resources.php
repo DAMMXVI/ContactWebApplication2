@@ -1,0 +1,30 @@
+<?php
+    return [
+        'dashboard' => 'Panel',
+        'listContact' => 'Rehberi Listele',
+        'addContact' => 'Rehbere Ekle',
+        'IndexTitle' => 'Anasayfa',
+        'ListContactTitle' => 'Rehber Listesi',
+        'AddContactTitle' => 'Rehbere Kişi Ekleme',
+        'EditContactTitle' => 'Kişiyi Düzenle',
+        'name' => 'Ad ve Soyad',
+        'phoneNumber' => 'Telefon Numarası',
+        'address' => 'Adres',
+        'searching' => 'Arama',
+        'search' => 'Ara',
+        'editing' => 'Düzenle',
+        'details' => 'Detay Göster',
+        'delete' => 'Sil',
+        'allright' => 'Bütün Hakları Saklıdır.',
+        'noMatched' => 'Eşleşen kayıt bulunamadı.',
+        'detailsPerson' => 'Kişi Detayları',
+        'close' => 'Kapat',
+        'note' => 'Not',
+        'dateAdd' => 'Eklenme Tarihi',
+        'dateUpdate' => 'Düzenlenme Tarihi',
+        'addNote' => 'Eklemek istediğiniz not',
+        'add' => 'Ekle',
+        'save' => 'Değişiklikleri Kaydet',
+        'birth_year' => 'Doğum Tarihi'
+    ];
+?>
